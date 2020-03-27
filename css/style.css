@@ -1,0 +1,117 @@
+.mainbox {
+    background-color: coral;
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.menu {
+    background-color: rgb(100, 239, 0);
+    height: 150px;
+    text-align: center;
+}
+
+.leftside {
+    background-color: rgb(255, 242, 59);
+    width: 100px;
+    height: 450px;
+    float: left;
+    text-align: center;
+}
+
+.main {
+    background-color: white;
+    width: 800px;
+    height: 450px;
+    float: left;
+
+}
+
+.rightside {
+    background-color: aliceblue;
+    height: 450px;
+    width: 100px;
+    float: left;
+}
+
+.footer {
+    background-color: darkgreen;
+    height: 600px;
+}
+
+.menu>ul>li{
+    display: inline;
+    padding: 10px 20px 10px 30px;
+    background-color: rgb(255, 242, 59);
+    position: relative;
+    top: 78px;
+    font-family: Tahoma, serif;
+    font-size: 20px;
+}
+
+.menu>ul>li>a{
+    text-decoration: none;
+    color: black;
+}
+
+.gallery{
+    max-width: 100px;
+    max-height: 80px;
+}
+
+.logo{
+    max-width: 100px;
+    max-height: 80px;
+    float: left;
+}
+
+#title{
+    display: inline;
+    position: relative;
+    font-family: 'Kalam', cursive;
+    font-size: 30px;
+    top: 30px;
+}
+
+#teksts{
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+}
+
+#foot{
+    font-family: 'Mukta', sans-serif;
+    color: white;
+}
+
+#map {
+    height: 100%;
+    width: 400px;
+    float: right;
+}
+
+#kontakti{
+    font-family: 'Mukta', sans-serif;
+    font-size: 14px;
+}
+
+.icon{
+    width: 75px;
+    height: 70px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.videot{
+    font-family: 'Mukta', sans-serif;
+    font-size: 17px;
+}
+
+#avid{
+    float: right;
+}
+
+.gal{
+    font-family: 'Mukta', sans-serif;
+    font-size: 15px;
+}
